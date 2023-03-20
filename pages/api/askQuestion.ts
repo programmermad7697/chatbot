@@ -33,7 +33,7 @@ export default async function handler(
     user: {
       _id: "ChatBOT",
       name: "ChatBOT",
-      avatar: "https://links.papareact.com/89k",
+      avatar: "https://cdn-icons-png.flaticon.com/512/2593/2593635.png",
     },
   };
 
